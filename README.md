@@ -38,5 +38,3 @@ Or run helper scripts:
 bash scripts/run_all_small.sh
 bash scripts/run_all_large.sh
 ```
-
-Outputs/logs can be saved under `results/` for screenshots and tables in your report.
